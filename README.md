@@ -22,7 +22,7 @@ In this **real-time DevOps project**, I demonstrate how to **deploy a Swiggy Clo
 
 **Kastro**    
 [![LinkedIn](https://www.linkedin.com/in/darshan-lohade-754263259/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KastroVKiran)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LohadeDarshan)  
 
 ---
 
