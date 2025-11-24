@@ -20,7 +20,7 @@ In this **real-time DevOps project**, I demonstrate how to **deploy a Swiggy Clo
 
 ---
 
-**Kastro**    
+**Darshan**    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-lohade-754263259/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LohadeDarshan)  
 
@@ -29,7 +29,7 @@ In this **real-time DevOps project**, I demonstrate how to **deploy a Swiggy Clo
 ## 📢 **Share Your Experience!**
 
 If you've successfully deployed the **Swiggy Clone App** using this project, I'd love to hear about it!  
-- 📹 **Post your deployment video** and **tag me on LinkedIn**: [**Kastro Kiran**](https://www.linkedin.com/in/kastro-kiran/)
+- 📹 **Post your deployment video** and **tag me on LinkedIn**: [**Darshan Lohade**](https://www.linkedin.com/in/darshan-lohade-754263259/)
 - 💬 **Share your experience** of deploying the app and the tools you used.
 
 > “DevOps is not just a job; it's a journey to continuously improve processes and automate solutions.” – **Kastro**
